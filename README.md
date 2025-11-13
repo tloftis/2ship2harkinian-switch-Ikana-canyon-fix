@@ -8,7 +8,7 @@ I did not modify the code, just wanted a place others that have the issue can go
 
 ### How to use
 
-1. download Windows build from here [https://github.com/HarbourMasters/2ship2harkinian/actions/runs/13642391583](https://github.com/AnthxnHobby/2ship2harkinian/releases/tag/1.1.2-fac000b)
+1. download Windows build from here https://github.com/AnthxnHobby/2ship2harkinian/releases/tag/1.1.2-fac000b
 2. extract zip
 3. put your mm rom \*.z64 file in folder
 4. start 2ship.exe
